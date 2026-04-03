@@ -1,60 +1,104 @@
 # 👋 Hey, I'm Rupin Sharma  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Data+Scientist;Machine+Learning+Enthusiast;Full+Stack+Learner;Building+Real+World+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Science+Enthusiast;Machine+Learning+Engineer;Ex+Cognizant+Analyst+Trainee;Turning+Data+into+Insights" />
 </p>
 
 ---
 
-## 🚀 About Me  
+## 🚀 Professional Summary  
 
-🎯 Passionate about transforming **data into actionable insights**  
-📊 Focused on **Data Science, Machine Learning & Problem Solving**  
-💻 Also skilled in **Frontend + Backend Development**  
-🧠 Currently building **real-world ML systems (Fraud Detection, etc.)**  
-📈 Consistently improving through **projects + structured learning**  
+Motivated **Data Science enthusiast** with a strong foundation in **Python, SQL, and Machine Learning**.  
+Experienced in **data cleaning, visualization, and predictive modeling** on real-world datasets.  
+
+✔️ Built multiple ML models across domains  
+✔️ Strong analytical and problem-solving mindset  
+✔️ Passionate about solving real-world business problems using data  
 
 ---
 
-## 🛠️ Tech Stack  
+## 💼 Experience  
+
+### 🏢 Analyst Trainee — Cognizant Technology Solutions  
+📍 Bangalore | 🗓️ June 2025 – Feb 2026  
+
+- Worked in IT Service Desk supporting **DAMAC Properties**
+- Resolved **100+ tickets/week** across system, network, and access issues  
+- Maintained **99% SLA compliance**  
+- Performed **Active Directory operations** (password reset, account unlock)  
+- Ensured high-quality customer support and escalation handling  
+
+---
+
+### 📊 Data Scientist Intern — Spinnaker Analytics  
+🗓️ March 2025 – Sept 2025  
+
+Worked on real-world data science projects:  
+- Product Cluster Analysis  
+- Solar Energy Prediction  
+- Geographical Clustering  
+- Hotel Cancellation Prediction  
+- Shooting Incident Classification  
+- Used Car Price Prediction  
+
+---
+
+## 🛠️ Technical Skills  
 
 ### 💻 Programming  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- Python, SQL, JavaScript, Java, C++, HTML/CSS  
 
-### 🌐 Web Development  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🤖 Machine Learning  
+- Scikit-learn, XGBoost, Random Forest, SVM, KNN, AdaBoost  
 
-### 📊 Data Science & ML  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
+### 📊 Data Analysis & Visualization  
+- Pandas, NumPy, Matplotlib, Seaborn  
+- Power BI, Tableau  
 
-### ⚙️ Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+### 🗄️ Database  
+- MySQL  
 
----
-
-## 📈 What I'm Working On  
-
-🔐 **Fraud Detection System (Machine Learning)**  
-📊 Data Analysis & Visualization Projects  
-🌐 Responsive & Dynamic Web Apps  
-🧠 Strengthening DSA & System Design fundamentals  
+### ⚙️ Core Concepts  
+- Data Structures & Algorithms  
+- OOPS  
+- Operating Systems  
+- Computer Networks  
 
 ---
 
-## 🧩 Featured Projects  
+## 📂 Projects  
 
-🚧 *(Update with your actual repos)*  
+### 🔐 Fraud Detection in Financial Transactions  
+- Built ML model using **XGBoost** on 100,000+ transactions  
+- Achieved **95% accuracy** with high recall  
+- Used **ROC-AUC & Confusion Matrix** for evaluation  
 
-- 🔐 Fraud Detection System  
-- 📊 Data Analysis Dashboard  
-- 🌐 Full Stack Web App  
+🔗 https://github.com/rupinsharma3052/Fraud-Detection-Model  
+
+---
+
+### 📉 Telecom Customer Churn Prediction  
+- Analyzed **7,000+ customer records**  
+- Achieved **88% accuracy** using ML models  
+- Applied **EDA + Hyperparameter Tuning**  
+
+🔗 https://github.com/rupinsharma3052/Telecom-Customer-Churn  
+
+---
+
+### 🔫 Shooting Incident Fatality Classification  
+- Classified NYC shooting incidents as fatal/non-fatal  
+- Identified key risk factors influencing fatality  
+
+🔗 https://github.com/rupinsharma3052/Classifying-Shooting-Incident-Fatality-NYPD  
+
+---
+
+### 🏠 House Price Prediction  
+- Built regression model with **70% accuracy**  
+- Identified key drivers like AC & bathrooms  
+
+🔗 https://github.com/rupinsharma3052/house-price-prediction  
 
 ---
 
@@ -74,23 +118,41 @@
 
 ---
 
-## 🏆 Achievements & Goals  
+## 🎓 Education  
 
-✔️ Building strong **Data Science foundation**  
-✔️ Creating **real-world ML projects**  
-🎯 Goal: Become a **Data Scientist in 6 months**  
-🚀 Long-term: Work on **AI-driven impactful systems**  
+- 🎓 Master Diploma in Data Science & AI – Boston Institute of Analytics (2025)  
+- 🎓 BCA – IGNOU (2024)  
+- 🎓 Advanced Diploma in Software Technology – NSIC (2022)  
+
+---
+
+## 🏆 Certifications  
+
+- Python – HackerRank  
+- SQL – HackerRank  
+- Java – HackerRank  
+- Linux Administration – NSIC  
+
+---
+
+## 🧠 Soft Skills  
+
+- Problem Solving  
+- Analytical Thinking  
+- Communication & Teamwork  
+- Fast Learner & Adaptable  
 
 ---
 
 ## 📫 Connect With Me  
 
 - 🔗 GitHub: https://github.com/rupinsharma3052  
-- 💼 LinkedIn: www.linkedin.com/in/rupinsharma17102001   
+- 💼 LinkedIn: https://www.linkedin.com/in/rupinsharma17102001  
+- 📧 Email: rupin3798@gmail.com  
 
 ---
 
 ## 💡 Developer Mindset  
 
 ```text
-Code. Analyze. Improve. Repeat.
+Build Models → Analyze Data → Improve Accuracy → Deliver Impact
