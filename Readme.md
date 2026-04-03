@@ -102,22 +102,6 @@ Worked on real-world data science projects:
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rupinsharma3052&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rupinsharma3052&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupinsharma3052&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🎓 Education  
 
 - 🎓 Master Diploma in Data Science & AI – Boston Institute of Analytics (2025)  
