@@ -1,142 +1,101 @@
 # 👋 Hey, I'm Rupin Sharma  
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=700&lines=Data+Science+Enthusiast;Machine+Learning+Engineer;Ex+Cognizant+Analyst+Trainee;Turning+Data+into+Insights" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Data+Scientist+in+Progress;Machine+Learning+Engineer;Ex-Cognizant+Analyst;Building+Real+World+AI+Systems" />
 </p>
 
 ---
 
-## 🚀 Professional Summary  
+## 🚀 About Me  
 
-Motivated **Data Science enthusiast** with a strong foundation in **Python, SQL, and Machine Learning**.  
-Experienced in **data cleaning, visualization, and predictive modeling** on real-world datasets.  
-
-✔️ Built multiple ML models across domains  
-✔️ Strong analytical and problem-solving mindset  
-✔️ Passionate about solving real-world business problems using data  
+- 🎯 Data Science Enthusiast with real-world ML experience  
+- 💼 Ex-Analyst Trainee @ Cognizant  
+- 🧠 Built ML models on production-like datasets  
+- 📊 Strong in Python, SQL, and Machine Learning  
 
 ---
 
-## 💼 Experience  
+## 🛠️ Tech Stack  
 
-### 🏢 Analyst Trainee — Cognizant Technology Solutions India Private Limited
-📍 Bangalore | 🗓️ June 2025 – Feb 2026  
+<p align="center">
 
-- Worked in IT Service Desk supporting **DAMAC Properties**
-- Resolved **100+ tickets/week** across system, network, and access issues  
-- Maintained **99% SLA compliance**  
-- Performed **Active Directory operations** (password reset, account unlock)  
-- Ensured high-quality customer support and escalation handling  
+<img src="https://skillicons.dev/icons?i=python,js,java,cpp,mysql,html,css,git,github,vscode" />
+
+</p>
 
 ---
 
-### 📊 Data Scientist Intern — Spinnaker Analytics  
-🗓️ March 2025 – Sept 2025  
+## 📂 Featured Projects  
 
-Worked on real-world data science projects:  
-- Product Cluster Analysis  
-- Solar Energy Prediction  
-- Geographical Clustering  
-- Hotel Cancellation Prediction  
-- Shooting Incident Classification  
-- Used Car Price Prediction  
+### 🔐 Fraud Detection System  
+![ML](https://img.shields.io/badge/ML-XGBoost-blue)
+![Accuracy](https://img.shields.io/badge/Accuracy-95%25-brightgreen)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 
----
-
-## 🛠️ Technical Skills  
-
-### 💻 Programming  
-- Python, SQL, JavaScript, Java, C++, HTML/CSS  
-
-### 🤖 Machine Learning  
-- Scikit-learn, XGBoost, Random Forest, SVM, KNN, AdaBoost  
-
-### 📊 Data Analysis & Visualization  
-- Pandas, NumPy, Matplotlib, Seaborn  
-- Power BI, Tableau  
-
-### 🗄️ Database  
-- MySQL  
-
-### ⚙️ Core Concepts  
-- Data Structures & Algorithms  
-- OOPS  
-- Operating Systems  
-- Computer Networks  
+🔗 Repo: https://github.com/rupinsharma3052/Fraud-Detection-Model  
+🚀 Live Demo: *(Add Streamlit link later)*  
 
 ---
 
-## 📂 Projects  
+### 📉 Telecom Churn Prediction  
+![ML](https://img.shields.io/badge/ML-XGBoost-orange)
+![Accuracy](https://img.shields.io/badge/Accuracy-88%25-green)
 
-### 🔐 Fraud Detection in Financial Transactions  
-- Built ML model using **XGBoost** on 100,000+ transactions  
-- Achieved **95% accuracy** with high recall  
-- Used **ROC-AUC & Confusion Matrix** for evaluation  
-
-🔗 https://github.com/rupinsharma3052/Fraud-Detection-Model  
+🔗 Repo: https://github.com/rupinsharma3052/Telecom-Customer-Churn  
 
 ---
 
-### 📉 Telecom Customer Churn Prediction  
-- Analyzed **7,000+ customer records**  
-- Achieved **88% accuracy** using ML models  
-- Applied **EDA + Hyperparameter Tuning**  
+### 🔫 Shooting Incident Classification  
+![ML](https://img.shields.io/badge/ML-Classification-purple)
 
-🔗 https://github.com/rupinsharma3052/Telecom-Customer-Churn  
-
----
-
-### 🔫 Shooting Incident Fatality Classification  
-- Classified NYC shooting incidents as fatal/non-fatal  
-- Identified key risk factors influencing fatality  
-
-🔗 https://github.com/rupinsharma3052/Classifying-Shooting-Incident-Fatality-NYPD  
+🔗 Repo: https://github.com/rupinsharma3052/Classifying-Shooting-Incident-Fatality-NYPD  
 
 ---
 
 ### 🏠 House Price Prediction  
-- Built regression model with **70% accuracy**  
-- Identified key drivers like AC & bathrooms  
+![ML](https://img.shields.io/badge/ML-Regression-yellow)
 
-🔗 https://github.com/rupinsharma3052/house-price-prediction  
-
----
-
-## 🎓 Education  
-
-- 🎓 Master Diploma in Data Science & AI – Boston Institute of Analytics (2025)  
-- 🎓 BCA – IGNOU (2024)  
-- 🎓 Advanced Diploma in Software Technology – NSIC (2022)  
+🔗 Repo: https://github.com/rupinsharma3052/house-price-prediction  
 
 ---
 
-## 🏆 Certifications  
+## 📊 GitHub Analytics  
 
-- Python – HackerRank  
-- SQL – HackerRank  
-- Java – HackerRank  
-- Linux Administration – NSIC  
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rupinsharma3052&theme=tokyonight" />
+</p>
 
----
-
-## 🧠 Soft Skills  
-
-- Problem Solving  
-- Analytical Thinking  
-- Communication & Teamwork  
-- Fast Learner & Adaptable  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rupinsharma3052&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rupinsharma3052&theme=tokyonight" />
+</p>
 
 ---
 
-## 📫 Connect With Me  
+## 🐍 Contribution Snake  
 
-- 🔗 GitHub: https://github.com/rupinsharma3052  
-- 💼 LinkedIn: https://www.linkedin.com/in/rupinsharma17102001  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rupinsharma3052/rupinsharma3052/output/snake.svg" />
+</p>
+
+---
+
+## 🏆 Achievements  
+
+- 🚀 Built ML models with **95% accuracy**  
+- 📊 Worked on **100K+ dataset**  
+- 💼 Industry experience at **Cognizant**  
+
+---
+
+## 📫 Connect  
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/rupinsharma17102001  
 - 📧 Email: rupin3798@gmail.com  
 
 ---
 
-## 💡 Developer Mindset  
+## ⚡ Mindset  
 
 ```text
-Build Models → Analyze Data → Improve Accuracy → Deliver Impact
+Data → Insight → Model → Impact 🚀
