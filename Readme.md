@@ -72,14 +72,6 @@
 
 ---
 
-## 🐍 Contribution Snake  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rupinsharma3052/rupinsharma3052/output/snake.svg" />
-</p>
-
----
-
 ## 🏆 Achievements  
 
 - 🚀 Built ML models with **95% accuracy**  
