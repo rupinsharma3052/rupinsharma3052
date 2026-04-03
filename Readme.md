@@ -86,7 +86,7 @@
 ## 📫 Connect With Me  
 
 - 🔗 GitHub: https://github.com/rupinsharma3052  
-- 💼 LinkedIn: *(Add your link here)*  
+- 💼 LinkedIn: www.linkedin.com/in/rupinsharma17102001   
 
 ---
 
