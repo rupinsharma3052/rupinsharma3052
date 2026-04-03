@@ -19,7 +19,7 @@ Experienced in **data cleaning, visualization, and predictive modeling** on real
 
 ## 💼 Experience  
 
-### 🏢 Analyst Trainee — Cognizant Technology Solutions  
+### 🏢 Analyst Trainee — Cognizant Technology Solutions India Private Limited
 📍 Bangalore | 🗓️ June 2025 – Feb 2026  
 
 - Worked in IT Service Desk supporting **DAMAC Properties**
