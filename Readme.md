@@ -42,7 +42,7 @@
 ![Accuracy](https://img.shields.io/badge/Accuracy-88%25-green)
 
 🔗 Repo: https://github.com/rupinsharma3052/Telecom-Customer-Churn  
-
+🚀 Live Demo: https://telecom-customer-churn-rupin1.streamlit.app/
 ---
 
 ### 🔫 Shooting Incident Classification  
