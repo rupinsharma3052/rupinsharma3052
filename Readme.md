@@ -52,11 +52,11 @@
 
 ---
 
-### 🏠 House Price Prediction  
+### 🏠Hotel Reservation Cancellation Prediction
 ![ML](https://img.shields.io/badge/ML-Regression-yellow)
 
-🔗 Repo: https://github.com/rupinsharma3052/house-price-prediction  
-
+🔗 Repo: https://github.com/rupinsharma3052/prediction-hotel-reservation-cacellation
+🚀 Live Demo: https://prediction-hotel-reservation-cacellation-rupin.streamlit.app/
 ---
 
 ## 📊 GitHub Analytics  
