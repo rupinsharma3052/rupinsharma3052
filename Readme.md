@@ -33,7 +33,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 🔗 Repo: https://github.com/rupinsharma3052/Fraud-Detection-Model  
-🚀 Live Demo: *(Add Streamlit link later)*  
+🚀 Live Demo:https://fraud-detection-model-rs.streamlit.app/
 
 ---
 
